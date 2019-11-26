@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">語音辨識</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="speech_prompt">請說話</string>
+    <string name="speech_not_supported">對不起，您的設備不支援語音輸入!</string>
+    <string name="tap_on_mic">點選 mic 圖示進行錄音</string>
+</resources>
